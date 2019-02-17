@@ -12,6 +12,7 @@ Project Create/Edit/List/Delete users
 
 # APK to install in Android
 - android/app/release/app-release.apk
+https://github.com/marangonijunior/tommy-reactnative/blob/master/android/app/release/app-release.apk
 
 # API in Heroku
 - POST https://tommy-sign-users.herokuapp.com/users
