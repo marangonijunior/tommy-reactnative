@@ -1,0 +1,4 @@
+#Fri Feb 15 15:24:11 WET 2019
+base.0=/Users/marangonijunior/Documents/GitHub/tommy/mobile/tommyReact/android/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
