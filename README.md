@@ -1,4 +1,4 @@
-# users-reactnative
+# tommy-reactnative
 Project Create/Edit/List/Delete users
 
 # install
